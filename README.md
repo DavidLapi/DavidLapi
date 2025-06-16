@@ -10,4 +10,3 @@ Aquí os muestro mis características:
 - 📫 Mi LinkedIn personal --> <a href="https://www.linkedin.com/in/david-vaamonde-bueno-a31049202/">LinkedIn</a>.
 - 🕴️ Mi Curriculum actual --> <a href="https://app.enhancv.com/share/38dc1759/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Curriculum Vitae</a>
 - 😄 Pronombres: Amistoso, proactivo, responsable y buen trabajo en equipo.
-- ⚡ Hecho Curioso:  Siempre he tenido curiosidad en el lenguaje Backend donde pueda generar peticiones al servidor.
