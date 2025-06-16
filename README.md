@@ -7,6 +7,6 @@ Aquí os muestro mis características:
 
 - 🔭 Aún no he trabajado en ninguna empresa informática, pero he obtenido experiencia laboral en distintos sectores informáticos.
 - 🌱 Actualmente estoy aprendiendo a utilizar los siguientes lenguajes de programación: React.js, JavaScript, Node.js, Flask, Python, APIs y PHP.
-- 📫 Mi LinkedIn personal --> <a href="https://www.linkedin.com/in/david-vaamonde-bueno-a31049202/">LinkedIn</a>.
-- 🕴️ Mi Curriculum actual --> <a href="https://app.enhancv.com/share/38dc1759/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Curriculum Vitae</a>
+- 📫 Mi LinkedIn personal --> <a href="https://www.linkedin.com/in/david-vaamonde-bueno-a31049202/" target="_blank">LinkedIn</a>.
+- 🕴️ Mi Curriculum actual --> <a href="https://app.enhancv.com/share/38dc1759/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">Curriculum Vitae</a>
 - 😄 Pronombres: Amistoso, proactivo, responsable y buen trabajo en equipo.
