@@ -14,5 +14,5 @@ Aquí os muestro mis características:
 - 😄 Pronombres: Responsable, proactivo, con buena capacidad de aprendizaje y dispuesto a trabajar en equipo.</li>
 - 💻 Situación laboral: Estudiando en un BootCamp patrocinado por Factoria F5.
 
-![Jim Carrey team working!](https://github.com/DavidLapi/DavidLapi/blob/main/assets/images/bruce-almighty-comedy.gif)
+![Jim Carrey team working!](/assets/images/bruce-almighty-comedy.gif)
 
