@@ -16,3 +16,4 @@ Aquí os muestro mis características:
 
 ![Jim Carrey team working!](/assets/images/bruce-almighty-comedy.gif)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlapi&theme=merko&show_icons=true)
